@@ -35,15 +35,10 @@ body{
     align-items: center;
       gap: 50px;
    line-height: 30px;
-   margin:50px 20px 0 20px;
-   text-align: justify;
+   margin:50px 20px 10px 20px;
+   text-align: center;
 }
-.resume h2{
-    text-align: center;
-}
-.ff{
-    margin-right: 10px;
-}
+
 .contact img{
     display: inline-block;
     margin: 0 4px;

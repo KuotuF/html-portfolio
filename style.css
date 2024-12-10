@@ -20,12 +20,6 @@ body{
     text-align: center;
     color: #666;
 }
-.main{
-   gap: 50px;
-   line-height: 30px;
-   margin:50px 20px 0 20px;
-    text-align:justify;
-}
 .landing{
     grid-column-start: 1;
     grid-column-end: 4;
@@ -40,6 +34,10 @@ body{
     flex-direction: column;
     text-align: center;
     align-items: center;
+     gap: 50px;
+   line-height: 30px;
+   margin:50px 20px 0 20px;
+    text-align:justify;
 } 
 .contact img{
     display: inline-block;

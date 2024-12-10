@@ -32,7 +32,6 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
     align-items: center;
      gap: 50px;
    line-height: 30px;

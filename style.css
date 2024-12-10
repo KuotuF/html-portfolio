@@ -20,9 +20,6 @@ body{
     text-align: center;
     color: #666;
 }
-.main{
-   
-}
 .landing{
     grid-column-start: 1;
     grid-column-end: 4;
